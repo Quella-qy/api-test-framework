@@ -1,0 +1,10 @@
+get_post:
+  - id: 1
+    expected_title: "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+  - id: 2
+    expected_title: "qui est esse"
+
+create_post:
+  title: "foo"
+  body: "bar"
+  userId: 1
